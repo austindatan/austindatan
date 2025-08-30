@@ -15,7 +15,6 @@
 ---
 
 ## Tech Stack
-<div align="center">
 
 **Languages & Frameworks**
 - React | Laravel | Python | Javascript | Java | WindCSS | WordPress | HTML | CSS
