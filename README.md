@@ -58,7 +58,7 @@ Here are some of my visual playgrounds:
 - [Behance Collections]: Still compiling....
 - [Design Portfolio](https://drive.google.com/drive/folders/1rEgQEuASnoaig2T-FoAB-_GaDQ9VcFQC)  
 
-[![Design Work Placeholder](https://via.placeholder.com/600x300?text=Design+Portfolio+Preview)](https://drive.google.com/drive/folders/1rEgQEuASnoaig2T-FoAB-_GaDQ9VcFQC)
+[![Design Work Placeholder](https://drive.google.com/drive/folders/1rEgQEuASnoaig2T-FoAB-_GaDQ9VcFQC)
 
 ---
 
