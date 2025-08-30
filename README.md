@@ -16,7 +16,11 @@
 
 ## Tech Stack
 **Languages & Frameworks**  
-- React | Java | Laravel | Tkinter  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,laravel,pycharm,js,windicss,wordpress,html,css" />
+  </a>
+</p>
 
 **Tools of Choice**  
 - VSCode | Figma | Photoshop | Canva | Behance 
