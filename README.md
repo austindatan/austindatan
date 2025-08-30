@@ -56,9 +56,10 @@ I don’t just code. I design with impact.
 Here are some of my visual playgrounds:
 
 - [Behance Collections]: Still compiling....
-- [Design Portfolio](https://drive.google.com/drive/folders/1rEgQEuASnoaig2T-FoAB-_GaDQ9VcFQC)  
+- [Design Portfolio](https://drive.google.com/drive/folders/1rEgQEuASnoaig2T-FoAB-_GaDQ9VcFQC)
+  
+[![My Design](https://drive.google.com/uc?export=view&id=1AbCdEfGhIJklMnopQRstuVWXYZ)](https://drive.google.com/file/d/1AbCdEfGhIJklMnopQRstuVWXYZ/view?usp=sharing)
 
-[![Design Work Placeholder](https://drive.google.com/drive/folders/1rEgQEuASnoaig2T-FoAB-_GaDQ9VcFQC)]
 
 ---
 
