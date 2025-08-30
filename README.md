@@ -65,9 +65,9 @@ Here are some of my visual playgrounds:
   <img src="assets/INSPIRATIONAL%20ADVOCACY%20POSTERS%20.png" alt="Project 4" width="200"/>
 </p>
 <p align="center">
-  <img src="assets/Flavors%20of%20Thailand.png" alt="Image 1" height="180"/>
-  <img src="assets/Cognicare%202.png" alt="Image 2" height="180"/>
-  <img src="assets/2.png" alt="Image 3" height="180"/>
+  <img src="assets/Flavors%20of%20Thailand.png" alt="Image 1" height="200"/>
+  <img src="assets/Cognicare%202.png" alt="Image 2" height="200"/>
+  <img src="assets/2.png" alt="Image 3" height="200"/>
 </p>
 
 ---
