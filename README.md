@@ -18,26 +18,10 @@
 <div align="center">
 
 **Languages & Frameworks**
-
-</div>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,laravel,pycharm,js,windicss,wordpress,html,css" />
-  </a>
-</p>
+- React | Laravel | Python | Javascript | Java | WindCSS | WordPress | HTML | CSS
 
 **Tools of Choice**  
-- VSCode | Figma | Photoshop | Canva | Behance
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,vscode" width="100" />
-  &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/500px-Adobe_Photoshop_CC_icon.svg.png" width="50" />
-  &nbsp;
-  <img src="https://res.cloudinary.com/topaitools/image/upload/v1/logos/gedm9vriipr8uvdthygg?_a=BAMClqTE0/m/1000x593/filters:format(jpg)" width="50" />
-</p>
-
-
+- VSCode | Figma | Photoshop | Canva | Behance | InVision | Pycharm
 
 **What I’m Exploring**  
 - UI systems that feel alive  
