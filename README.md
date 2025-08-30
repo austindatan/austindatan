@@ -32,7 +32,13 @@
 - **USTP Student Attendance System**  
   [![USTP Student Attendance System](https://via.placeholder.com/600x300?text=USTP+Attendance+System+Preview)](https://github.com/)  
   A campus-level system for tracking student participation in events and classes.  
-  Built to replace manual logbooks with a **faster, centralized, error-free** digital approach.  
+  Built to replace manual logbooks with a **faster, centralized, error-free** digital approach.
+  <p align="center">
+  <img src="assets/1.png" alt="ISDA Art of Love" width="200"/>
+  <img src="assets/port%2.png" alt="Project 2" width="200"/>
+  <img src="assets/3.png" alt="Project 3" width="200"/>
+  <img src="assets/4.png" alt="Project 4" width="200"/>
+  </p>
 
 - **Sabrosa**  
   [![Sabrosa Project](https://via.placeholder.com/600x300?text=Sabrosa+Food+E-Commerce+Prototype)](https://github.com/)  
@@ -43,11 +49,6 @@
   [![Apollo Portfolio](https://via.placeholder.com/600x300?text=Apollo+Portfolio+Website)](https://github.com/)  
   My personal portfolio, crafted with **HTML, CSS, and JS**.  
   A playground for experimenting with **UI/UX + graphic design elements**.  
-
-- **Yellow Index**  
-  [![Yellow Index Project](https://via.placeholder.com/600x300?text=Yellow+Index+Bookstore+Concept)](https://github.com/)  
-  A concept for a **modern bookstore platform**.  
-  Think digital shelves, curated categories, and a system that blends **literature with clean browsing**.  
 
 ---
 
