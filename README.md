@@ -32,10 +32,11 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,vscode" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/500px-Adobe_Photoshop_CC_icon.svg.png" width="50" style="border-radius:10px; margin-left:10px;" />
-    <img src="https://res.cloudinary.com/topaitools/image/upload/v1/logos/gedm9vriipr8uvdthygg?_a=BAMClqTE0/m/1000x593/filters:format(jpg)" width="50" style="border-radius:10px; margin-left:10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/500px-Adobe_Photoshop_CC_icon.svg.png" style="width:50px; border-radius:10px; margin-left:10px;" />
+    <img src="https://res.cloudinary.com/topaitools/image/upload/v1/logos/gedm9vriipr8uvdthygg?_a=BAMClqTE0/m/1000x593/filters:format(jpg)" style="width:50px; border-radius:10px; margin-left:10px;" />
   </a>
 </p>
+
 
 **What I’m Exploring**  
 - UI systems that feel alive  
