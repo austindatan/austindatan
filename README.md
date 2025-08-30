@@ -58,7 +58,8 @@ Here are some of my visual playgrounds:
 - [Behance Collections]: Still compiling....
 - [Design Portfolio](https://drive.google.com/drive/folders/1rEgQEuASnoaig2T-FoAB-_GaDQ9VcFQC)
   
-[![My Design](https://drive.google.com/uc?export=view&id=1AbCdEfGhIJklMnopQRstuVWXYZ)](https://drive.google.com/file/d/1AbCdEfGhIJklMnopQRstuVWXYZ/view?usp=sharing)
+![ISDA Art of Love](assets/ISDA%20Art%20of%20Love.png)
+
 
 
 ---
