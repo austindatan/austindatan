@@ -68,7 +68,7 @@ I don’t just code. I design with impact.
 Here are some of my visual playgrounds:
 
 - [Behance Collections]: Still compiling....
-- [Design Portfolio](https://drive.google.com/drive/folders/1rEgQEuASnoaig2T-FoAB-_GaDQ9VcFQC) A link to my works! Here's a preview for some of them.
+- [Design Portfolio](https://drive.google.com/drive/folders/1rEgQEuASnoaig2T-FoAB-_GaDQ9VcFQC):  A link to my works! Here's a preview for some of them.
   
 <p align="center">
   <img src="assets/ISDA%20Art%20of%20Love.png" alt="ISDA Art of Love" width="200"/>
