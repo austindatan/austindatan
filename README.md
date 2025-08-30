@@ -24,7 +24,8 @@
 
 **What I’m Exploring**  
 - UI systems that feel alive  
-- Themed dashboards and neobrutalist web layouts  
+- Themed dashboards and neobrutalist web layouts
+- Currently developing my own Card Game (On Hold)
 
 ---
 
