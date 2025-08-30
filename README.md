@@ -29,8 +29,7 @@
 
 ## Projects
 
-- **USTP Student Attendance System**  
-  [![USTP Student Attendance System](https://via.placeholder.com/600x300?text=USTP+Attendance+System+Preview)](https://github.com/)  
+- **USTP Student Attendance System**
   A campus-level system for tracking student participation in events and classes.  
   Built to replace manual logbooks with a **faster, centralized, error-free** digital approach.
   <p align="center">
@@ -41,7 +40,6 @@
   </p>
 
 - **Sabrosa**  
-  [![Sabrosa Project](https://via.placeholder.com/600x300?text=Sabrosa+Food+E-Commerce+Prototype)](https://github.com/)  
   A **food e-commerce & delivery platform prototype**.  
   Supports multiple snack brands under one platform with a fresh UI concept.
   <p align="center">
@@ -52,7 +50,6 @@
   </p>
 
 - **Apollo (Portfolio Website)**  
-  [![Apollo Portfolio](https://via.placeholder.com/600x300?text=Apollo+Portfolio+Website)](https://github.com/)  
   My personal portfolio, crafted with **HTML, CSS, and JS**.  
   A playground for experimenting with **UI/UX + graphic design elements**.
   <p align="center">
@@ -86,11 +83,11 @@ Here are some of my visual playgrounds:
 ---
 
 ## Connect with Me
-- [Email](mailto:austindatan@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/austindatan/)  
-- [Instagram](https://www.instagram.com/dilan_06p5/#)  
-- [Facebook](https://www.facebook.com/austin.datan/)  
+- [Email](mailto:austindatan@gmail.com)  : austindatan@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/austindatan/)  : https://www.linkedin.com/in/austindatan/
+- [Instagram](https://www.instagram.com/dilan_06p5/#)  : https://www.instagram.com/dilan_06p5/ (currently private, will open soon)
+- [Facebook](https://www.facebook.com/austin.datan/)  : https://www.facebook.com/austin.datan/
 
 ---
 
-✨ *Code. Design. Create. Repeat.*  
+ *Code. Design. Create. Repeat.*  
