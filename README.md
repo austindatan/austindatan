@@ -31,7 +31,7 @@
 - VSCode | Figma | Photoshop | Canva | Behance
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/500px-Adobe_Photoshop_CC_icon.svg.png" width="50" />
+    <img src="https://skillicons.dev/icons?i=figma,vscode" />   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/500px-Adobe_Photoshop_CC_icon.svg.png" width="50" /> <img src="https://res.cloudinary.com/topaitools/image/upload/v1/logos/gedm9vriipr8uvdthygg?_a=BAMClqTE0/m/1000x593/filters:format(jpg)" width="50" />
   </a>
 </p>
 
