@@ -28,39 +28,46 @@
 ---
 
 ## Projects
+
 - **USTP Student Attendance System**  
+  [![USTP Student Attendance System](https://via.placeholder.com/600x300?text=USTP+Attendance+System+Preview)](https://github.com/)  
   A campus-level system for tracking student participation in events and classes.  
   Built to replace manual logbooks with a **faster, centralized, error-free** digital approach.  
 
 - **Sabrosa**  
+  [![Sabrosa Project](https://via.placeholder.com/600x300?text=Sabrosa+Food+E-Commerce+Prototype)](https://github.com/)  
   A **food e-commerce & delivery platform prototype**.  
   Supports multiple snack brands under one platform with a fresh UI concept.  
 
 - **Apollo (Portfolio Website)**  
+  [![Apollo Portfolio](https://via.placeholder.com/600x300?text=Apollo+Portfolio+Website)](https://github.com/)  
   My personal portfolio, crafted with **HTML, CSS, and JS**.  
   A playground for experimenting with **UI/UX + graphic design elements**.  
 
 - **Yellow Index**  
+  [![Yellow Index Project](https://via.placeholder.com/600x300?text=Yellow+Index+Bookstore+Concept)](https://github.com/)  
   A concept for a **modern bookstore platform**.  
   Think digital shelves, curated categories, and a system that blends **literature with clean browsing**.  
-
 
 ---
 
 ## Design Work
 I don’t just code. I design with impact.  
 Here are some of my visual playgrounds:
+
 - [Behance Collections]: Still compiling....
 - [Design Portfolio](https://drive.google.com/drive/folders/1rEgQEuASnoaig2T-FoAB-_GaDQ9VcFQC)  
+
+[![Design Work Placeholder](https://via.placeholder.com/600x300?text=Design+Portfolio+Preview)](https://drive.google.com/drive/folders/1rEgQEuASnoaig2T-FoAB-_GaDQ9VcFQC)
 
 ---
 
 ## Connect with Me
-- [Email](austindatan@gmail.com)  
+- [Email](mailto:austindatan@gmail.com)  
 - [LinkedIn](https://www.linkedin.com/in/austindatan/)  
 - [Instagram](https://www.instagram.com/dilan_06p5/#)  
 - [Facebook](https://www.facebook.com/austin.datan/)  
 
 ---
 
-*Code. Design. Create. Repeat.*  
+✨ *Code. Design. Create. Repeat.*  
