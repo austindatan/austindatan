@@ -35,7 +35,7 @@
   Built to replace manual logbooks with a **faster, centralized, error-free** digital approach.
   <p align="center">
   <img src="assets/1.png" alt="ISDA Art of Love" width="200"/>
-  <img src="assets/port%2.png" alt="Project 2" width="200"/>
+  <img src="assets/port%202.png" alt="Project 2" width="200"/>
   <img src="assets/3.png" alt="Project 3" width="200"/>
   <img src="assets/4.png" alt="Project 4" width="200"/>
   </p>
@@ -43,12 +43,24 @@
 - **Sabrosa**  
   [![Sabrosa Project](https://via.placeholder.com/600x300?text=Sabrosa+Food+E-Commerce+Prototype)](https://github.com/)  
   A **food e-commerce & delivery platform prototype**.  
-  Supports multiple snack brands under one platform with a fresh UI concept.  
+  Supports multiple snack brands under one platform with a fresh UI concept.
+  <p align="center">
+  <img src="assets/5.png" alt="ISDA Art of Love" width="200"/>
+  <img src="assets/6.png" alt="Project 2" width="200"/>
+  <img src="assets/7.png" alt="Project 3" width="200"/>
+  <img src="assets/8.png" alt="Project 4" width="200"/>
+  </p>
 
 - **Apollo (Portfolio Website)**  
   [![Apollo Portfolio](https://via.placeholder.com/600x300?text=Apollo+Portfolio+Website)](https://github.com/)  
   My personal portfolio, crafted with **HTML, CSS, and JS**.  
-  A playground for experimenting with **UI/UX + graphic design elements**.  
+  A playground for experimenting with **UI/UX + graphic design elements**.
+  <p align="center">
+  <img src="assets/9.png" alt="ISDA Art of Love" width="200"/>
+  <img src="assets/10.png" alt="Project 2" width="200"/>
+  <img src="assets/11.png" alt="Project 3" width="200"/>
+  <img src="assets/12.png" alt="Project 4" width="200"/>
+  </p>
 
 ---
 
