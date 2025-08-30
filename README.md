@@ -10,7 +10,7 @@
 - Information Technology student from the University of Science and Technology of Southern Philippines 
 - 8+ years designing, from editorial design to maximalism to surrealism  
 - UI/UX enthusiast who loves creating bold, expressive interfaces  
-- Believer in tech × art — where visuals meet function  
+- Believer in tech × art where visuals meet function  
 
 ---
 
@@ -22,7 +22,7 @@
 - VSCode | Figma | Photoshop | Canva | Behance 
 
 **What I’m Exploring**  
-- UI systems that feel alive ✦  
+- UI systems that feel alive  
 - Themed dashboards and neobrutalist web layouts  
 
 ---
@@ -63,4 +63,4 @@ Here are some of my visual playgrounds:
 
 ---
 
-✨ *Code. Design. Create. Repeat.*  
+*Code. Design. Create. Repeat.*  
