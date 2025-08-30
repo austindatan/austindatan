@@ -15,7 +15,12 @@
 ---
 
 ## Tech Stack
-**Languages & Frameworks**  
+<div align="center">
+
+**Languages & Frameworks**
+
+</div>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,laravel,pycharm,js,windicss,wordpress,html,css" />
