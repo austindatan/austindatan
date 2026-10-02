@@ -1,65 +1,12 @@
-# Hi, I'm Austin Dilan Datan (Apollo / The Reverie)
+# Hi, I'm Austin Dilan Datan (Apollo)
 
 > Graphic Designer | IT Student | Aspiring UI/UX Developer  
-> My style? A clash of **Maximalism × Neobrutalism × Surrealism × Botany**.  
-> My mission? To blend **design aesthetics** with **functional tech**.
+> **Maximalism × Neobrutalism × Surrealism × Botany**.  
 
 ---
 
-## About Me
 - Information Technology student from the University of Science and Technology of Southern Philippines 
-- 8+ years designing, from editorial design to maximalism to surrealism  
-- UI/UX enthusiast who loves creating bold, expressive interfaces  
-- Believer in tech × art where visuals meet function  
-
----
-
-## Tech Stack
-
-**Languages & Frameworks**
-- React | Laravel | Python | Javascript | Java | WindCSS | WordPress | HTML | CSS
-
-**Tools of Choice**  
-- VSCode | Figma | Photoshop | Canva | Behance | InVision | Pycharm
-
-**What I’m Exploring**  
-- UI systems that feel alive  
-- Themed dashboards and neobrutalist web layouts
-- Currently developing my own Card Game (On Hold)
-
----
-
-## Projects
-
-- **USTP Student Attendance System**
-  A campus-level system for tracking student participation in events and classes.  
-  Built to replace manual logbooks with a **faster, centralized, error-free** digital approach.
-  <p align="center">
-  <img src="assets/1.png" alt="ISDA Art of Love" width="200"/>
-  <img src="assets/port%202.png" alt="Project 2" width="200"/>
-  <img src="assets/3.png" alt="Project 3" width="200"/>
-  <img src="assets/4.png" alt="Project 4" width="200"/>
-  </p>
-
-- **Sabrosa**  
-  A **food e-commerce & delivery platform prototype**.  
-  Supports multiple snack brands under one platform with a fresh UI concept.
-  <p align="center">
-  <img src="assets/5.png" alt="ISDA Art of Love" width="200"/>
-  <img src="assets/6.png" alt="Project 2" width="200"/>
-  <img src="assets/7.png" alt="Project 3" width="200"/>
-  <img src="assets/8.png" alt="Project 4" width="200"/>
-  </p>
-
-- **Apollo (Portfolio Website)**  
-  My personal portfolio, crafted with **HTML, CSS, and JS**.  
-  A playground for experimenting with **UI/UX + graphic design elements**.
-  <p align="center">
-  <img src="assets/9.png" alt="ISDA Art of Love" width="200"/>
-  <img src="assets/10.png" alt="Project 2" width="200"/>
-  <img src="assets/11.png" alt="Project 3" width="200"/>
-  <img src="assets/12.png" alt="Project 4" width="200"/>
-  </p>
+- 8+ years designing, from editorial design to maximalism to surrealism
 
 ---
 
@@ -90,6 +37,3 @@ Here are some of my visual playgrounds:
 - [Instagram](https://www.instagram.com/dilan_06p5/#)  : https://www.instagram.com/dilan_06p5/ (currently private, will open soon)
 - [Facebook](https://www.facebook.com/austin.datan/)  : https://www.facebook.com/austin.datan/
 
----
-
- *Code. Design. Create. Repeat.*  
