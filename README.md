@@ -14,8 +14,7 @@
 I don’t just code. I design with impact.  
 Here are some of my visual playgrounds:
 
-- [Behance Collections]: Still compiling....
-- [Design Portfolio](https://drive.google.com/drive/folders/1rEgQEuASnoaig2T-FoAB-_GaDQ9VcFQC):  A link to my works! Here's a preview for some of them.
+- [Website Portfolio]: ...still developing
   
 <p align="center">
   <img src="assets/ISDA%20Art%20of%20Love.png" alt="ISDA Art of Love" width="200"/>
@@ -34,6 +33,6 @@ Here are some of my visual playgrounds:
 ## Connect with Me
 - [Email](mailto:austindatan@gmail.com)  : austindatan@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/austindatan/)  : https://www.linkedin.com/in/austindatan/
-- [Instagram](https://www.instagram.com/dilan_06p5/#)  : https://www.instagram.com/dilan_06p5/ (currently private, will open soon)
+- [Instagram](https://www.instagram.com/dilan06p5/#)  : https://www.instagram.com/dilan_06p5/
 - [Facebook](https://www.facebook.com/austin.datan/)  : https://www.facebook.com/austin.datan/
 
